@@ -4713,3 +4713,20 @@ svg .mech-blue {
     width: 100%
   }
 }
+
+
+
+/* Example - меню вверху для тестового просмотра с gitHub */
+
+.header-bottom__menu-example {
+  margin-right: 60px;
+  font-size: 21px;
+  text-decoration: none;
+  margin: 0 60px 0 0;
+  padding: 0;
+}
+
+.header-bottom__menu-item-ex {
+  margin-right: 60px;
+}
+
